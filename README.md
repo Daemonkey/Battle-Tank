@@ -1,2 +1,2 @@
 # Battle-Tank
-open world head to head tank fight
+open world head to head tank fight game
